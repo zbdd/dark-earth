@@ -5,12 +5,42 @@
       "assets": [
         {
           "alias": [
+            "assets/buttons",
+            "buttons"
+          ],
+          "src": [
+            "assets/buttons-w9GwDg.webp.json",
+            "assets/buttons-dLts0g.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "assets/events",
             "events"
           ],
           "src": [
             "assets/events-tw339A.webp.json",
             "assets/events-TvmFAA.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/game",
+            "game"
+          ],
+          "src": [
+            "assets/game-pNQfrA.webp.json",
+            "assets/game-Ltjm7A.png.json"
           ],
           "data": {
             "tags": {
@@ -80,11 +110,26 @@
         },
         {
           "alias": [
+            "assets/town",
+            "town"
+          ],
+          "src": [
+            "assets/town-9H5u4w.webp.json",
+            "assets/town--MQgxw.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "audio/inventory-select.mp3",
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-NPc3.ogg",
+            "audio/inventory-select-S9O8DQ.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
