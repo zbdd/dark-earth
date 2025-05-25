@@ -20,6 +20,21 @@
         },
         {
           "alias": [
+            "assets/effects",
+            "effects"
+          ],
+          "src": [
+            "assets/effects-wRLJAA.webp.json",
+            "assets/effects-lTjwfg.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "assets/events",
             "events"
           ],
@@ -129,7 +144,7 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-qK8csg.ogg",
+            "audio/inventory-select-ZKl66A.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
@@ -137,10 +152,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "assets",
-      "assets": []
     }
   ]
 }
