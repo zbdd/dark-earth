@@ -129,7 +129,7 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-S9O8DQ.ogg",
+            "audio/inventory-select-qK8csg.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
@@ -137,6 +137,10 @@
           }
         }
       ]
+    },
+    {
+      "name": "assets",
+      "assets": []
     }
   ]
 }
