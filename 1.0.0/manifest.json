@@ -39,8 +39,8 @@
             "events"
           ],
           "src": [
-            "assets/events-tw339A.webp.json",
-            "assets/events-TvmFAA.png.json"
+            "assets/events-URt5xg.webp.json",
+            "assets/events-M937nw.png.json"
           ],
           "data": {
             "tags": {
@@ -56,6 +56,21 @@
           "src": [
             "assets/game-pNQfrA.webp.json",
             "assets/game-Ltjm7A.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/icons",
+            "icons"
+          ],
+          "src": [
+            "assets/icons-HQqWGw.webp.json",
+            "assets/icons-0bwgwg.png.json"
           ],
           "data": {
             "tags": {
@@ -110,12 +125,27 @@
         },
         {
           "alias": [
+            "assets/portraits",
+            "portraits"
+          ],
+          "src": [
+            "assets/portraits-QgxbRQ.png.json",
+            "assets/portraits-_TAGMw.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "assets/terrain",
             "terrain"
           ],
           "src": [
-            "assets/terrain-yzp1.png.json",
-            "assets/terrain-9q34kQ.webp.json"
+            "assets/terrain-UL_h9Q.webp.json",
+            "assets/terrain-M0p2UQ.png.json"
           ],
           "data": {
             "tags": {
@@ -144,7 +174,7 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-viEA-w.ogg",
+            "audio/inventory-select-TsQYJA.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
