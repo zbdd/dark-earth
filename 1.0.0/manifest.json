@@ -50,6 +50,21 @@
         },
         {
           "alias": [
+            "assets/faces",
+            "faces"
+          ],
+          "src": [
+            "assets/faces-XNgU0Q.webp.json",
+            "assets/faces-cvELQg.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "assets/game",
             "game"
           ],
@@ -69,8 +84,8 @@
             "icons"
           ],
           "src": [
-            "assets/icons-qD0eOw.png.json",
-            "assets/icons-cXUMNQ.webp.json"
+            "assets/icons-fxgXdQ.webp.json",
+            "assets/icons-2L3YuQ.png.json"
           ],
           "data": {
             "tags": {
