@@ -189,8 +189,20 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-TsQYJA.ogg",
+            "audio/inventory-select-dLm_9A.ogg",
             "audio/inventory-select-4gXVVA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "fonts/alagard.ttf",
+            "alagard.ttf"
+          ],
+          "src": [
+            "fonts/alagard-FBdswQ.ttf"
           ],
           "data": {
             "tags": {}
