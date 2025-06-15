@@ -185,12 +185,38 @@
         },
         {
           "alias": [
+            "audio/fists.mp3",
+            "fists.mp3"
+          ],
+          "src": [
+            "audio/fists-Jcv-4g.mp3",
+            "audio/fists-fZnHIg.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "audio/inventory-select.mp3",
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-mdP8Mw.ogg",
+            "audio/inventory-select-deKGUQ.ogg",
             "audio/inventory-select-4gXVVA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/step.mp3",
+            "step.mp3"
+          ],
+          "src": [
+            "audio/step-nAKmRw.ogg",
+            "audio/step-Iw9sNw.mp3"
           ],
           "data": {
             "tags": {}
