@@ -24,8 +24,8 @@
             "effects"
           ],
           "src": [
-            "assets/effects-kRJk2g.webp.json",
-            "assets/effects-KbqUhA.png.json"
+            "assets/effects-HRNkQQ.webp.json",
+            "assets/effects-3ySNSg.png.json"
           ],
           "data": {
             "tags": {
@@ -189,7 +189,7 @@
             "collect.wav"
           ],
           "src": [
-            "audio/collect-xwupZQ.ogg",
+            "audio/collect-XkpJPQ.ogg",
             "audio/collect-N-p7fA.mp3"
           ],
           "data": {
@@ -202,7 +202,7 @@
             "fists.mp3"
           ],
           "src": [
-            "audio/fists-v82aEQ.ogg",
+            "audio/fists-mVW2xQ.ogg",
             "audio/fists-Jcv-4g.mp3"
           ],
           "data": {
@@ -215,7 +215,7 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-H_31.ogg",
+            "audio/inventory-select-mZOPZA.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
@@ -228,8 +228,8 @@
             "step.mp3"
           ],
           "src": [
-            "audio/step-Iw9sNw.mp3",
-            "audio/step--JST0g.ogg"
+            "audio/step-pzp8XA.ogg",
+            "audio/step-Iw9sNw.mp3"
           ],
           "data": {
             "tags": {}
