@@ -4,9 +4,19 @@
     <meta charset="UTF-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <style>
+        @font-face {
+            font-family: 'alagard';
+            src: url('./*/fonts/alagard.ttf') format('truetype');
+            font-display: block;
+        }
+        #loading-text {
+            visibility: hidden;
+            font-size: 32px;
+        }
         body {
             background-color: black;
             overflow: hidden;
+            font-family: 'alagard';
         }
         div#stats {
             position: fixed;
@@ -22,13 +32,21 @@
         }
     </style>
     <title>Dark Earth</title>
-  <script type="module" crossorigin src="./assets/index-BRFiNmPw.js"></script>
+  <script type="module" crossorigin src="./assets/index-oj_SiuIv.js"></script>
   <link rel="stylesheet" crossorigin href="./assets/index-kRYJn0Br.css">
 </head>
 <body oncontextmenu="return false;">
     <div id="loading-screen">
-        <div>Loading game...</div>
+        <div id="loading-text">Loading game...</div>
     </div>
+    <script>
+        setTimeout(() => {
+            const loadingText = document.getElementById('loading-text');
+            if (loadingText) {
+                loadingText.style.visibility = 'visible';
+            }
+        }, 1000);
+    </script>
     <div id="app"></div>
 </body>
 </html>
