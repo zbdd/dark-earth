@@ -84,8 +84,8 @@
             "icons"
           ],
           "src": [
-            "assets/icons-IBxtZA.png.json",
-            "assets/icons-8ynKaw.webp.json"
+            "assets/icons-n3g83g.png.json",
+            "assets/icons-7e-UPw.webp.json"
           ],
           "data": {
             "tags": {
@@ -189,8 +189,8 @@
             "collect.wav"
           ],
           "src": [
-            "audio/collect-N-p7fA.mp3",
-            "audio/collect-4oo1nw.ogg"
+            "audio/collect-nqrDjg.ogg",
+            "audio/collect-N-p7fA.mp3"
           ],
           "data": {
             "tags": {}
@@ -203,7 +203,7 @@
           ],
           "src": [
             "audio/fists-Jcv-4g.mp3",
-            "audio/fists-GYUVbw.ogg"
+            "audio/fists-2iEk0Q.ogg"
           ],
           "data": {
             "tags": {}
@@ -215,8 +215,8 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-iel-Ew.ogg",
-            "audio/inventory-select-4gXVVA.mp3"
+            "audio/inventory-select-4gXVVA.mp3",
+            "audio/inventory-select-29Ve7w.ogg"
           ],
           "data": {
             "tags": {}
@@ -229,7 +229,7 @@
           ],
           "src": [
             "audio/step-Iw9sNw.mp3",
-            "audio/step-1NyGCg.ogg"
+            "audio/step-5HUCvA.ogg"
           ],
           "data": {
             "tags": {}
