@@ -189,8 +189,8 @@
             "collect.wav"
           ],
           "src": [
-            "audio/collect-rTjS4g.ogg",
-            "audio/collect-N-p7fA.mp3"
+            "audio/collect-N-p7fA.mp3",
+            "audio/collect-Iwu4gg.ogg"
           ],
           "data": {
             "tags": {}
@@ -202,8 +202,8 @@
             "fists.mp3"
           ],
           "src": [
-            "audio/fists-Jcv-4g.mp3",
-            "audio/fists-EWJHSA.ogg"
+            "audio/fists-rD5EkA.ogg",
+            "audio/fists-Jcv-4g.mp3"
           ],
           "data": {
             "tags": {}
@@ -215,7 +215,7 @@
             "inventory-select.mp3"
           ],
           "src": [
-            "audio/inventory-select-i7oY.ogg",
+            "audio/inventory-select-VnHapg.ogg",
             "audio/inventory-select-4gXVVA.mp3"
           ],
           "data": {
@@ -228,7 +228,7 @@
             "step.mp3"
           ],
           "src": [
-            "audio/step-Ji-zCw.ogg",
+            "audio/step-SjIfZQ.ogg",
             "audio/step-Iw9sNw.mp3"
           ],
           "data": {
