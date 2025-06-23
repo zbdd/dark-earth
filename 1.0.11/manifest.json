@@ -198,6 +198,19 @@
         },
         {
           "alias": [
+            "audio/death.mp3",
+            "death.mp3"
+          ],
+          "src": [
+            "audio/death-sJ-Xgg.mp3",
+            "audio/death-O2DcQg.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "audio/fists.mp3",
             "fists.mp3"
           ],
