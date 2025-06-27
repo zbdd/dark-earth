@@ -185,12 +185,25 @@
         },
         {
           "alias": [
+            "audio/click.wav",
+            "click.wav"
+          ],
+          "src": [
+            "audio/click-zH8KsA.mp3",
+            "audio/click-gy8hqg.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
             "audio/collect.wav",
             "collect.wav"
           ],
           "src": [
-            "audio/collect-pk2NLQ.ogg",
-            "audio/collect-N-p7fA.mp3"
+            "audio/collect-N-p7fA.mp3",
+            "audio/collect-4HLZlw.ogg"
           ],
           "data": {
             "tags": {}
@@ -202,8 +215,34 @@
             "death.mp3"
           ],
           "src": [
-            "audio/death-ybb6xg.ogg",
-            "audio/death-sJ-Xgg.mp3"
+            "audio/death-sJ-Xgg.mp3",
+            "audio/death-4rKZ.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/deselect.wav",
+            "deselect.wav"
+          ],
+          "src": [
+            "audio/deselect-u06Zxw.mp3",
+            "audio/deselect-GNP2mA.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/door.mp3",
+            "door.mp3"
+          ],
+          "src": [
+            "audio/door-IwA6GQ.ogg",
+            "audio/door-4gXVVA.mp3"
           ],
           "data": {
             "tags": {}
@@ -215,7 +254,7 @@
             "fists.mp3"
           ],
           "src": [
-            "audio/fists-wE7R.ogg",
+            "audio/fists-lDovAw.ogg",
             "audio/fists-Jcv-4g.mp3"
           ],
           "data": {
@@ -224,12 +263,25 @@
         },
         {
           "alias": [
-            "audio/inventory-select.mp3",
-            "inventory-select.mp3"
+            "audio/inventory.wav",
+            "inventory.wav"
           ],
           "src": [
-            "audio/inventory-select-6ewNjg.ogg",
-            "audio/inventory-select-4gXVVA.mp3"
+            "audio/inventory-LYEusA.ogg",
+            "audio/inventory-Ew0h_Q.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/select.wav",
+            "select.wav"
+          ],
+          "src": [
+            "audio/select-Hyr8bw.ogg",
+            "audio/select-e1TOhA.mp3"
           ],
           "data": {
             "tags": {}
@@ -241,7 +293,7 @@
             "step.mp3"
           ],
           "src": [
-            "audio/step-niYPaw.ogg",
+            "audio/step-LLVjJA.ogg",
             "audio/step-Iw9sNw.mp3"
           ],
           "data": {
