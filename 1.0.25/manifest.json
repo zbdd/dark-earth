@@ -99,8 +99,8 @@
             "items"
           ],
           "src": [
-            "assets/items-pT3ioQ.webp.json",
-            "assets/items-5jL_bQ.png.json"
+            "assets/items-mzmchg.webp.json",
+            "assets/items-6o5C-A.png.json"
           ],
           "data": {
             "tags": {
@@ -190,7 +190,7 @@
           ],
           "src": [
             "audio/mx/dark drop off trim-mCe2cA.mp3",
-            "audio/mx/dark drop off trim-KUqNYA.ogg"
+            "audio/mx/dark drop off trim-ipS-WA.ogg"
           ],
           "data": {
             "tags": {}
@@ -202,8 +202,8 @@
             "mx-level-end.wav"
           ],
           "src": [
-            "audio/mx/mx-level-end-t2V3EA.ogg",
-            "audio/mx/mx-level-end-IBSvNw.mp3"
+            "audio/mx/mx-level-end-IBSvNw.mp3",
+            "audio/mx/mx-level-end-cvKT4w.ogg"
           ],
           "data": {
             "tags": {}
@@ -216,7 +216,7 @@
           ],
           "src": [
             "audio/sfx/click-zH8KsA.mp3",
-            "audio/sfx/click-xCuNmA.ogg"
+            "audio/sfx/click-iqlckg.ogg"
           ],
           "data": {
             "tags": {}
@@ -228,7 +228,7 @@
             "collect.wav"
           ],
           "src": [
-            "audio/sfx/collect-rGL2AQ.ogg",
+            "audio/sfx/collect-NYxVkg.ogg",
             "audio/sfx/collect-N-p7fA.mp3"
           ],
           "data": {
@@ -241,7 +241,7 @@
             "death.mp3"
           ],
           "src": [
-            "audio/sfx/death-zWMpoA.ogg",
+            "audio/sfx/death-vp-DxA.ogg",
             "audio/sfx/death-sJ-Xgg.mp3"
           ],
           "data": {
@@ -254,8 +254,8 @@
             "deselect.wav"
           ],
           "src": [
-            "audio/sfx/deselect-u06Zxw.mp3",
-            "audio/sfx/deselect-GUGp.ogg"
+            "audio/sfx/deselect-yei43w.ogg",
+            "audio/sfx/deselect-u06Zxw.mp3"
           ],
           "data": {
             "tags": {}
@@ -267,7 +267,7 @@
             "door.mp3"
           ],
           "src": [
-            "audio/sfx/door-b_zqxQ.ogg",
+            "audio/sfx/door-QMjAAg.ogg",
             "audio/sfx/door-4gXVVA.mp3"
           ],
           "data": {
@@ -280,8 +280,8 @@
             "fists.mp3"
           ],
           "src": [
-            "audio/sfx/fists-Jcv-4g.mp3",
-            "audio/sfx/fists-7Qyhbg.ogg"
+            "audio/sfx/fists-tDZuMw.ogg",
+            "audio/sfx/fists-Jcv-4g.mp3"
           ],
           "data": {
             "tags": {}
@@ -294,7 +294,7 @@
           ],
           "src": [
             "audio/sfx/inventory-open-RBKuMg.mp3",
-            "audio/sfx/inventory-open-qJnn.ogg"
+            "audio/sfx/inventory-open-Ixd8Uw.ogg"
           ],
           "data": {
             "tags": {}
@@ -306,7 +306,7 @@
             "inventory.wav"
           ],
           "src": [
-            "audio/sfx/inventory-K1GgWA.ogg",
+            "audio/sfx/inventory-OKgbRQ.ogg",
             "audio/sfx/inventory-Ew0h_Q.mp3"
           ],
           "data": {
@@ -319,8 +319,8 @@
             "select.wav"
           ],
           "src": [
-            "audio/sfx/select-e1TOhA.mp3",
-            "audio/sfx/select-7Lvlvg.ogg"
+            "audio/sfx/select-yqewgA.ogg",
+            "audio/sfx/select-e1TOhA.mp3"
           ],
           "data": {
             "tags": {}
@@ -332,7 +332,7 @@
             "sfx-sell.mp3"
           ],
           "src": [
-            "audio/sfx/sfx-sell-i3dOvA.ogg",
+            "audio/sfx/sfx-sell-tfYx7Q.ogg",
             "audio/sfx/sfx-sell-akNw9A.mp3"
           ],
           "data": {
@@ -345,7 +345,7 @@
             "sfx-unlock.wav"
           ],
           "src": [
-            "audio/sfx/sfx-unlock-VWg9Kw.ogg",
+            "audio/sfx/sfx-unlock-a9Cq.ogg",
             "audio/sfx/sfx-unlock-8k5Buw.mp3"
           ],
           "data": {
@@ -358,8 +358,8 @@
             "step.mp3"
           ],
           "src": [
-            "audio/sfx/step-PMbI8A.ogg",
-            "audio/sfx/step-Iw9sNw.mp3"
+            "audio/sfx/step-Iw9sNw.mp3",
+            "audio/sfx/step-G6_vxA.ogg"
           ],
           "data": {
             "tags": {}
