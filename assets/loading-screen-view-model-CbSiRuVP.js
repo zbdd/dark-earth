@@ -1,0 +1,1 @@
+import{c as s}from"./solid-lwVvZ318.js";const V=()=>{const[t,i]=s(!1),[n,c]=s(""),[l,r]=s(!1),[o,a]=s(!1);return{isVisible:()=>t(),setVisible:e=>{i(e)},isIntroSequencePlaying:()=>o(),setIntroSequencePlaying:e=>{a(e)},text:()=>n(),setText:e=>{c(e)},setRestScreenVisible:e=>{r(e)},isRestScreenVisible:()=>l()}};export{V as createLoadingScreenViewModel};
