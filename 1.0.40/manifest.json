@@ -189,7 +189,7 @@
             "mx-intro.mp3"
           ],
           "src": [
-            "audio/mx/mx-intro-q8Lpow.ogg",
+            "audio/mx/mx-intro-X-tsEQ.ogg",
             "audio/mx/mx-intro-nKdRXQ.mp3"
           ],
           "data": {
@@ -202,8 +202,8 @@
             "mx-level-end.wav"
           ],
           "src": [
-            "audio/mx/mx-level-end-tXjKEw.ogg",
-            "audio/mx/mx-level-end-IBSvNw.mp3"
+            "audio/mx/mx-level-end-IBSvNw.mp3",
+            "audio/mx/mx-level-end-h1iV.ogg"
           ],
           "data": {
             "tags": {}
@@ -215,7 +215,7 @@
             "mx-title.mp3"
           ],
           "src": [
-            "audio/mx/mx-title-q_x64Q.ogg",
+            "audio/mx/mx-title-gJmDTw.ogg",
             "audio/mx/mx-title-a7popw.mp3"
           ],
           "data": {
@@ -229,7 +229,7 @@
           ],
           "src": [
             "audio/sfx/click-zH8KsA.mp3",
-            "audio/sfx/click-yqKlTg.ogg"
+            "audio/sfx/click-XEUc-Q.ogg"
           ],
           "data": {
             "tags": {}
@@ -241,8 +241,8 @@
             "collect.wav"
           ],
           "src": [
-            "audio/sfx/collect-zEqmKA.ogg",
-            "audio/sfx/collect-N-p7fA.mp3"
+            "audio/sfx/collect-N-p7fA.mp3",
+            "audio/sfx/collect-f7PNBQ.ogg"
           ],
           "data": {
             "tags": {}
@@ -254,8 +254,8 @@
             "death.mp3"
           ],
           "src": [
-            "audio/sfx/death-sJ-Xgg.mp3",
-            "audio/sfx/death--fu7ow.ogg"
+            "audio/sfx/death-U3VEKg.ogg",
+            "audio/sfx/death-sJ-Xgg.mp3"
           ],
           "data": {
             "tags": {}
@@ -268,7 +268,7 @@
           ],
           "src": [
             "audio/sfx/deselect-u06Zxw.mp3",
-            "audio/sfx/deselect-23yfFg.ogg"
+            "audio/sfx/deselect-t6qmkw.ogg"
           ],
           "data": {
             "tags": {}
@@ -280,8 +280,8 @@
             "door.mp3"
           ],
           "src": [
-            "audio/sfx/door-qVD9mA.ogg",
-            "audio/sfx/door-4gXVVA.mp3"
+            "audio/sfx/door-4gXVVA.mp3",
+            "audio/sfx/door-0w2X3w.ogg"
           ],
           "data": {
             "tags": {}
@@ -294,7 +294,7 @@
           ],
           "src": [
             "audio/sfx/fists-Jcv-4g.mp3",
-            "audio/sfx/fists--CKCyw.ogg"
+            "audio/sfx/fists-h1OK.ogg"
           ],
           "data": {
             "tags": {}
@@ -307,7 +307,7 @@
           ],
           "src": [
             "audio/sfx/inventory-open-RBKuMg.mp3",
-            "audio/sfx/inventory-open-QCpy2A.ogg"
+            "audio/sfx/inventory-open-nqpBBA.ogg"
           ],
           "data": {
             "tags": {}
@@ -319,7 +319,7 @@
             "inventory.wav"
           ],
           "src": [
-            "audio/sfx/inventory-UPnttA.ogg",
+            "audio/sfx/inventory-zB-Ogw.ogg",
             "audio/sfx/inventory-Ew0h_Q.mp3"
           ],
           "data": {
@@ -333,7 +333,7 @@
           ],
           "src": [
             "audio/sfx/select-e1TOhA.mp3",
-            "audio/sfx/select-5rXnrA.ogg"
+            "audio/sfx/select-5H9wwA.ogg"
           ],
           "data": {
             "tags": {}
@@ -345,8 +345,8 @@
             "sfx-sell.mp3"
           ],
           "src": [
-            "audio/sfx/sfx-sell-akNw9A.mp3",
-            "audio/sfx/sfx-sell-2XyGxg.ogg"
+            "audio/sfx/sfx-sell-si7l3A.ogg",
+            "audio/sfx/sfx-sell-akNw9A.mp3"
           ],
           "data": {
             "tags": {}
@@ -358,7 +358,7 @@
             "sfx-thud.mp3"
           ],
           "src": [
-            "audio/sfx/sfx-thud-44nJdQ.ogg",
+            "audio/sfx/sfx-thud-gZpg.ogg",
             "audio/sfx/sfx-thud-3njoGA.mp3"
           ],
           "data": {
@@ -371,8 +371,8 @@
             "sfx-unlock.wav"
           ],
           "src": [
-            "audio/sfx/sfx-unlock-eTeHUA.ogg",
-            "audio/sfx/sfx-unlock-8k5Buw.mp3"
+            "audio/sfx/sfx-unlock-8k5Buw.mp3",
+            "audio/sfx/sfx-unlock-3ben.ogg"
           ],
           "data": {
             "tags": {}
@@ -384,8 +384,8 @@
             "step.mp3"
           ],
           "src": [
-            "audio/sfx/step-wwJrhA.ogg",
-            "audio/sfx/step-Iw9sNw.mp3"
+            "audio/sfx/step-Iw9sNw.mp3",
+            "audio/sfx/step-fCWQ4w.ogg"
           ],
           "data": {
             "tags": {}
