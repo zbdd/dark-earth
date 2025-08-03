@@ -1,1 +1,92 @@
-if(!self.define){let s,e={};const l=(l,i)=>(l=new URL(l+".js",i).href,e[l]||new Promise(e=>{if("document"in self){const s=document.createElement("script");s.src=l,s.onload=e,document.head.appendChild(s)}else s=l,importScripts(l),e()}).then(()=>{let s=e[l];if(!s)throw new Error(`Module ${l} didn’t register its module`);return s}));self.define=(i,n)=>{const r=s||("document"in self?document.currentScript.src:"")||location.href;if(e[r])return;let o={};const t=s=>l(s,r),u={module:{uri:r},exports:o,require:t};e[r]=Promise.all(i.map(s=>u[s]||t(s))).then(s=>(n(...s),o))}}define(["./workbox-5ffe50d4"],function(s){"use strict";self.skipWaiting(),s.clientsClaim(),s.precacheAndRoute([{url:"assets/browserAll-GhfWXW5q.js",revision:null},{url:"assets/create-pixi-app-CUKxU7g9.js",revision:null},{url:"assets/game-controller-DaOfZFh8.js",revision:null},{url:"assets/index-az1GvKIv.js",revision:null},{url:"assets/index-C6QY6yC0.css",revision:null},{url:"assets/loading-screen-view-model-D_Vh3cGZ.js",revision:null},{url:"assets/loading-screen-view-zoveCRC6.js",revision:null},{url:"assets/main-menu-view-model-DaCjjie8.js",revision:null},{url:"assets/manifest-DzKYHEeh.js",revision:null},{url:"assets/modal-view-DaFilMXO.js",revision:null},{url:"assets/npc-model-DyQXkGpR.js",revision:null},{url:"assets/player-input-handler-C5eT68Fi.js",revision:null},{url:"assets/save-controller-DMjInzOt.js",revision:null},{url:"assets/solid-lwVvZ318.js",revision:null},{url:"assets/sound-manager-DkwQu1C7.js",revision:null},{url:"assets/view-model-COorktt3.js",revision:null},{url:"assets/view-sHfksqsI.js",revision:null},{url:"assets/webworkerAll-B2L-10Mt.js",revision:null},{url:"index.html",revision:"a671b14a6b6765ee75c38abb2a95664d"},{url:"registerSW.js",revision:"402b66900e731ca748771b6fc5e7a068"},{url:"manifest.webmanifest",revision:"d826cf3836f8e098d09b40705f29b002"}],{}),s.cleanupOutdatedCaches(),s.registerRoute(new s.NavigationRoute(s.createHandlerBoundToURL("index.html")))});
+/**
+ * Copyright 2018 Google Inc. All Rights Reserved.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+// If the loader is already loaded, just stop.
+if (!self.define) {
+  let registry = {};
+
+  // Used for `eval` and `importScripts` where we can't get script URL by other means.
+  // In both cases, it's safe to use a global var because those functions are synchronous.
+  let nextDefineUri;
+
+  const singleRequire = (uri, parentUri) => {
+    uri = new URL(uri + ".js", parentUri).href;
+    return registry[uri] || (
+      
+        new Promise(resolve => {
+          if ("document" in self) {
+            const script = document.createElement("script");
+            script.src = uri;
+            script.onload = resolve;
+            document.head.appendChild(script);
+          } else {
+            nextDefineUri = uri;
+            importScripts(uri);
+            resolve();
+          }
+        })
+      
+      .then(() => {
+        let promise = registry[uri];
+        if (!promise) {
+          throw new Error(`Module ${uri} didn’t register its module`);
+        }
+        return promise;
+      })
+    );
+  };
+
+  self.define = (depsNames, factory) => {
+    const uri = nextDefineUri || ("document" in self ? document.currentScript.src : "") || location.href;
+    if (registry[uri]) {
+      // Module is already loading or loaded.
+      return;
+    }
+    let exports = {};
+    const require = depUri => singleRequire(depUri, uri);
+    const specialDeps = {
+      module: { uri },
+      exports,
+      require
+    };
+    registry[uri] = Promise.all(depsNames.map(
+      depName => specialDeps[depName] || require(depName)
+    )).then(deps => {
+      factory(...deps);
+      return exports;
+    });
+  };
+}
+define(['./workbox-54d0af47'], (function (workbox) { 'use strict';
+
+  self.skipWaiting();
+  workbox.clientsClaim();
+
+  /**
+   * The precacheAndRoute() method efficiently caches and responds to
+   * requests for URLs in the manifest.
+   * See https://goo.gl/S9QRab
+   */
+  workbox.precacheAndRoute([{
+    "url": "registerSW.js",
+    "revision": "3ca0b8505b4bec776b69afdba2768812"
+  }, {
+    "url": "index.html",
+    "revision": "0.1k9fbnca38o"
+  }], {});
+  workbox.cleanupOutdatedCaches();
+  workbox.registerRoute(new workbox.NavigationRoute(workbox.createHandlerBoundToURL("index.html"), {
+    allowlist: [/^\/$/]
+  }));
+
+}));
