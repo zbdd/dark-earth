@@ -1,0 +1,1 @@
+import{E as n}from"./index-DP1GvXT9.js";const E=new n,T=e=>{E.on("ON_START_GAME_REQUESTED",()=>{e.onStartGameRequested()}),E.on("ON_CONTINUE_GAME_REQUESTED",({autoSave:t})=>{e.onContinueGameRequested(t)})};export{E as MENU_EVENT_EMITTER,T as createMenuInputHandler};
