@@ -1,1 +1,0 @@
-import{E as n}from"./styles.module-B7VPNQN6.js";import"./index-CLIUg1Sf.js";const E=new n,T=e=>{E.on("ON_START_GAME_REQUESTED",()=>{e.onStartGameRequested()}),E.on("ON_CONTINUE_GAME_REQUESTED",({autoSave:t})=>{e.onContinueGameRequested(t)})};export{E as MENU_EVENT_EMITTER,T as createMenuInputHandler};
