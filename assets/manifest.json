@@ -155,12 +155,27 @@
         },
         {
           "alias": [
+            "assets/structures",
+            "structures"
+          ],
+          "src": [
+            "assets/structures-PwGv4Q.webp.json",
+            "assets/structures-fEU0SQ.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
             "assets/terrain-misc",
             "terrain-misc"
           ],
           "src": [
-            "assets/terrain-misc-naKxrw.png.json",
-            "assets/terrain-misc-5q8O8A.webp.json"
+            "assets/terrain-misc-NK9nfQ.webp.json",
+            "assets/terrain-misc-4TgXVQ.png.json"
           ],
           "data": {
             "tags": {
@@ -174,8 +189,8 @@
             "terrain"
           ],
           "src": [
-            "assets/terrain-tpGoVw.webp.json",
-            "assets/terrain-0agllQ.png.json"
+            "assets/terrain-Ty_seA.webp.json",
+            "assets/terrain-tR8HwQ.png.json"
           ],
           "data": {
             "tags": {
