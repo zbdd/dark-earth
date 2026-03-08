@@ -69,8 +69,8 @@
             "game"
           ],
           "src": [
-            "assets/game-rm1VrA-0.webp.json",
-            "assets/game-2wMLzw-0.png.json"
+            "assets/game-EejsmA-0.webp.json",
+            "assets/game--DAV-w-0.png.json"
           ],
           "data": {
             "tags": {
@@ -114,8 +114,8 @@
             "npcs"
           ],
           "src": [
-            "assets/npcs-pM-zNw-0.png.json",
-            "assets/npcs-bZLLWw-0.webp.json"
+            "assets/npcs-o9Eyjw-0.webp.json",
+            "assets/npcs-0MDojw-0.png.json"
           ],
           "data": {
             "tags": {
@@ -364,8 +364,8 @@
             "mx-intro.mp3"
           ],
           "src": [
-            "audio/mx/mx-intro-nKdRXQ.mp3",
-            "audio/mx/mx-intro-isVB6g.ogg"
+            "audio/mx/mx-intro-pkb3Sw.ogg",
+            "audio/mx/mx-intro-nKdRXQ.mp3"
           ],
           "data": {
             "tags": {}
@@ -377,7 +377,7 @@
             "mx-level-end.wav"
           ],
           "src": [
-            "audio/mx/mx-level-end-bVQm8A.ogg",
+            "audio/mx/mx-level-end-slmfkg.ogg",
             "audio/mx/mx-level-end-alzSvQ.mp3"
           ],
           "data": {
@@ -390,7 +390,7 @@
             "mx-title.mp3"
           ],
           "src": [
-            "audio/mx/mx-title-PN-aYQ.ogg",
+            "audio/mx/mx-title-Rn6Ukg.ogg",
             "audio/mx/mx-title-a7popw.mp3"
           ],
           "data": {
@@ -404,7 +404,7 @@
           ],
           "src": [
             "audio/sfx/click-NE8UXQ.mp3",
-            "audio/sfx/click-c1N7Ig.ogg"
+            "audio/sfx/click-auYJeg.ogg"
           ],
           "data": {
             "tags": {}
@@ -417,7 +417,7 @@
           ],
           "src": [
             "audio/sfx/collect-uKUs0g.mp3",
-            "audio/sfx/collect-jgKZqA.ogg"
+            "audio/sfx/collect-4rEDSQ.ogg"
           ],
           "data": {
             "tags": {}
@@ -430,7 +430,7 @@
           ],
           "src": [
             "audio/sfx/death-sJ-Xgg.mp3",
-            "audio/sfx/death-aB_BJg.ogg"
+            "audio/sfx/death-3hdR.ogg"
           ],
           "data": {
             "tags": {}
@@ -442,8 +442,8 @@
             "deselect.wav"
           ],
           "src": [
-            "audio/sfx/deselect-t3gvOw.ogg",
-            "audio/sfx/deselect-oU1CZQ.mp3"
+            "audio/sfx/deselect-oU1CZQ.mp3",
+            "audio/sfx/deselect-NXyYMQ.ogg"
           ],
           "data": {
             "tags": {}
@@ -455,8 +455,8 @@
             "door.mp3"
           ],
           "src": [
-            "audio/sfx/door-4gXVVA.mp3",
-            "audio/sfx/door-3ljA.ogg"
+            "audio/sfx/door-orcHjQ.ogg",
+            "audio/sfx/door-4gXVVA.mp3"
           ],
           "data": {
             "tags": {}
@@ -468,7 +468,7 @@
             "fists.mp3"
           ],
           "src": [
-            "audio/sfx/fists-taiSCQ.ogg",
+            "audio/sfx/fists-s_-2tQ.ogg",
             "audio/sfx/fists-Jcv-4g.mp3"
           ],
           "data": {
@@ -482,7 +482,7 @@
           ],
           "src": [
             "audio/sfx/inventory-open-iquqYw.mp3",
-            "audio/sfx/inventory-open-b-yawQ.ogg"
+            "audio/sfx/inventory-open-HuQwTw.ogg"
           ],
           "data": {
             "tags": {}
@@ -495,7 +495,7 @@
           ],
           "src": [
             "audio/sfx/inventory-ZoAdDQ.mp3",
-            "audio/sfx/inventory-91cC.ogg"
+            "audio/sfx/inventory-YrSpwQ.ogg"
           ],
           "data": {
             "tags": {}
@@ -507,8 +507,8 @@
             "select.wav"
           ],
           "src": [
-            "audio/sfx/select-yOXyvg.ogg",
-            "audio/sfx/select-PtM7Ig.mp3"
+            "audio/sfx/select-PtM7Ig.mp3",
+            "audio/sfx/select--1ebhA.ogg"
           ],
           "data": {
             "tags": {}
@@ -520,7 +520,7 @@
             "sfx-sell.mp3"
           ],
           "src": [
-            "audio/sfx/sfx-sell-Zidz-g.ogg",
+            "audio/sfx/sfx-sell-rNXK.ogg",
             "audio/sfx/sfx-sell-akNw9A.mp3"
           ],
           "data": {
@@ -533,7 +533,7 @@
             "sfx-thud.mp3"
           ],
           "src": [
-            "audio/sfx/sfx-thud-suVphQ.ogg",
+            "audio/sfx/sfx-thud-5IkUHQ.ogg",
             "audio/sfx/sfx-thud-3njoGA.mp3"
           ],
           "data": {
@@ -546,7 +546,7 @@
             "sfx-unlock.wav"
           ],
           "src": [
-            "audio/sfx/sfx-unlock-y8ceqg.ogg",
+            "audio/sfx/sfx-unlock-Y-ke.ogg",
             "audio/sfx/sfx-unlock-UYPj.mp3"
           ],
           "data": {
@@ -560,7 +560,7 @@
           ],
           "src": [
             "audio/sfx/step-Iw9sNw.mp3",
-            "audio/sfx/step-gN718A.ogg"
+            "audio/sfx/step-Ep74mA.ogg"
           ],
           "data": {
             "tags": {}
