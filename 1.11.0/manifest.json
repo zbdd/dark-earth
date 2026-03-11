@@ -39,8 +39,8 @@
             "events"
           ],
           "src": [
-            "assets/events-yWMmxQ.webp.json",
-            "assets/events-MZro.png.json"
+            "assets/events-sEMw7g.png.json",
+            "assets/events-iIr_iw.webp.json"
           ],
           "data": {
             "tags": {
@@ -99,8 +99,8 @@
             "items"
           ],
           "src": [
-            "assets/items-VOqSOg.webp.json",
-            "assets/items-v9NYLA.png.json"
+            "assets/items-Op1B_Q.webp.json",
+            "assets/items-8PyQ.png.json"
           ],
           "data": {
             "tags": {
@@ -360,38 +360,12 @@
         },
         {
           "alias": [
-            "audio/mx/mx-intro.mp3",
-            "mx-intro.mp3"
+            "audio/mx/mx-background.mp3",
+            "mx-background.mp3"
           ],
           "src": [
-            "audio/mx/mx-intro-nKdRXQ.mp3",
-            "audio/mx/mx-intro-NazQJA.ogg"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "audio/mx/mx-level-end.wav",
-            "mx-level-end.wav"
-          ],
-          "src": [
-            "audio/mx/mx-level-end-XwBv-w.ogg",
-            "audio/mx/mx-level-end-IBSvNw.mp3"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "audio/mx/mx-title.mp3",
-            "mx-title.mp3"
-          ],
-          "src": [
-            "audio/mx/mx-title-S1Ga.ogg",
-            "audio/mx/mx-title-a7popw.mp3"
+            "audio/mx/mx-background-teqP.ogg",
+            "audio/mx/mx-background-I-_deA.mp3"
           ],
           "data": {
             "tags": {}
