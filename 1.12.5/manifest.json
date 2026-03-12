@@ -1,0 +1,558 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            "assets/buttons",
+            "buttons"
+          ],
+          "src": [
+            "assets/buttons-s0IMqA.webp.json",
+            "assets/buttons-eE-pWQ.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/effects",
+            "effects"
+          ],
+          "src": [
+            "assets/effects-12hVcg.webp.json",
+            "assets/effects--BTygw.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/events",
+            "events"
+          ],
+          "src": [
+            "assets/events-sEMw7g.png.json",
+            "assets/events-iIr_iw.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/faces",
+            "faces"
+          ],
+          "src": [
+            "assets/faces-eTSthg.png.json",
+            "assets/faces-06HMqA.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/game",
+            "game"
+          ],
+          "src": [
+            "assets/game-rm1VrA-0.webp.json",
+            "assets/game-2wMLzw-0.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/icons",
+            "icons"
+          ],
+          "src": [
+            "assets/icons-jVo9EA.webp.json",
+            "assets/icons-d7p6dw.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/items",
+            "items"
+          ],
+          "src": [
+            "assets/items-Op1B_Q.webp.json",
+            "assets/items-8PyQ.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/npcs",
+            "npcs"
+          ],
+          "src": [
+            "assets/npcs-o9Eyjw-0.webp.json",
+            "assets/npcs-0MDojw-0.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/player",
+            "player"
+          ],
+          "src": [
+            "assets/player-yirgzQ.png.json",
+            "assets/player-qSWfHg.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/portraits",
+            "portraits"
+          ],
+          "src": [
+            "assets/portraits-y69yTA.png.json",
+            "assets/portraits-osBDcQ.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/structures",
+            "structures"
+          ],
+          "src": [
+            "assets/structures-M35uVA.png.json",
+            "assets/structures-GI_qiA.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/terrain-misc",
+            "terrain-misc"
+          ],
+          "src": [
+            "assets/terrain-misc-NK9nfQ.webp.json",
+            "assets/terrain-misc-4TgXVQ.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/terrain",
+            "terrain"
+          ],
+          "src": [
+            "assets/terrain-JhMP3w.webp.json",
+            "assets/terrain-iOn4Cw.png.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/towns",
+            "towns"
+          ],
+          "src": [
+            "assets/towns-qYSrKQ.png.json",
+            "assets/towns--R0zUg.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/town",
+            "town"
+          ],
+          "src": [
+            "assets/town-Q_7Flw.png.json",
+            "assets/town-MRlU.webp.json"
+          ],
+          "data": {
+            "tags": {
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/eyes.png",
+            "eyes.png"
+          ],
+          "src": [
+            "assets/unused/eyes-TuWajQ.png",
+            "assets/unused/eyes-ayTzHQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/grass.png",
+            "grass.png"
+          ],
+          "src": [
+            "assets/unused/grass-WNSKww.png",
+            "assets/unused/grass-6Qe9Hw.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/mountain.png",
+            "mountain.png"
+          ],
+          "src": [
+            "assets/unused/mountain-dOFlUQ.png",
+            "assets/unused/mountain-2C9mLQ.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/mud.png",
+            "mud.png"
+          ],
+          "src": [
+            "assets/unused/mud-vKHmfA.png",
+            "assets/unused/mud-4UtB.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/obsidian-1.png",
+            "obsidian-1.png"
+          ],
+          "src": [
+            "assets/unused/obsidian-1-Yy8eTQ.webp",
+            "assets/unused/obsidian-1-Ps81VA.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/obsidian.png",
+            "obsidian.png"
+          ],
+          "src": [
+            "assets/unused/obsidian-jhgxzw.png",
+            "assets/unused/obsidian-1ivcKA.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/sinkhole.png",
+            "sinkhole.png"
+          ],
+          "src": [
+            "assets/unused/sinkhole-SiosOw.png",
+            "assets/unused/sinkhole-bNPBWg.webp"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/volcanic.png",
+            "volcanic.png"
+          ],
+          "src": [
+            "assets/unused/volcanic-xj6Zlw.webp",
+            "assets/unused/volcanic-5a5f.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/wasteland-0.png",
+            "wasteland-0.png"
+          ],
+          "src": [
+            "assets/unused/wasteland-0-pK_Ngg.webp",
+            "assets/unused/wasteland-0-mQWdJg.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "assets/unused/wasteland.png",
+            "wasteland.png"
+          ],
+          "src": [
+            "assets/unused/wasteland-T8AkjA.webp",
+            "assets/unused/wasteland-0OVhLQ.png"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/mx/mx-background.mp3",
+            "mx-background.mp3"
+          ],
+          "src": [
+            "audio/mx/mx-background-N4qSww.ogg",
+            "audio/mx/mx-background-I-_deA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/click.wav",
+            "click.wav"
+          ],
+          "src": [
+            "audio/sfx/click-zH8KsA.mp3",
+            "audio/sfx/click-JOel6w.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/collect.wav",
+            "collect.wav"
+          ],
+          "src": [
+            "audio/sfx/collect-TBs_MA.ogg",
+            "audio/sfx/collect-N-p7fA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/death.mp3",
+            "death.mp3"
+          ],
+          "src": [
+            "audio/sfx/death-sJ-Xgg.mp3",
+            "audio/sfx/death-1LuypQ.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/deselect.wav",
+            "deselect.wav"
+          ],
+          "src": [
+            "audio/sfx/deselect-u06Zxw.mp3",
+            "audio/sfx/deselect-77Ih9Q.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/door.mp3",
+            "door.mp3"
+          ],
+          "src": [
+            "audio/sfx/door-gVs_ow.ogg",
+            "audio/sfx/door-4gXVVA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/fists.mp3",
+            "fists.mp3"
+          ],
+          "src": [
+            "audio/sfx/fists-Jcv-4g.mp3",
+            "audio/sfx/fists-ddg4Ug.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/inventory-open.wav",
+            "inventory-open.wav"
+          ],
+          "src": [
+            "audio/sfx/inventory-open-RBKuMg.mp3",
+            "audio/sfx/inventory-open-QuBqcQ.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/inventory.wav",
+            "inventory.wav"
+          ],
+          "src": [
+            "audio/sfx/inventory-Ew0h_Q.mp3",
+            "audio/sfx/inventory-_4Ju.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/select.wav",
+            "select.wav"
+          ],
+          "src": [
+            "audio/sfx/select-e1TOhA.mp3",
+            "audio/sfx/select-4EYi-Q.ogg"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/sfx-sell.mp3",
+            "sfx-sell.mp3"
+          ],
+          "src": [
+            "audio/sfx/sfx-sell-Yk8YMQ.ogg",
+            "audio/sfx/sfx-sell-akNw9A.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/sfx-thud.mp3",
+            "sfx-thud.mp3"
+          ],
+          "src": [
+            "audio/sfx/sfx-thud-d6qUCA.ogg",
+            "audio/sfx/sfx-thud-3njoGA.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/sfx-unlock.wav",
+            "sfx-unlock.wav"
+          ],
+          "src": [
+            "audio/sfx/sfx-unlock-X2CN.ogg",
+            "audio/sfx/sfx-unlock-8k5Buw.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/sfx/step.mp3",
+            "step.mp3"
+          ],
+          "src": [
+            "audio/sfx/step-VO55vw.ogg",
+            "audio/sfx/step-Iw9sNw.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "fonts/alagard.ttf",
+            "alagard.ttf"
+          ],
+          "src": [
+            "fonts/alagard-FBdswQ.ttf"
+          ],
+          "data": {
+            "tags": {}
+          }
+        }
+      ]
+    }
+  ]
+}
