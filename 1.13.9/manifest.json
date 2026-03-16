@@ -5,36 +5,6 @@
       "assets": [
         {
           "alias": [
-            "assets/buttons",
-            "buttons"
-          ],
-          "src": [
-            "assets/buttons-s0IMqA.webp.json",
-            "assets/buttons-eE-pWQ.png.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
-            "assets/effects",
-            "effects"
-          ],
-          "src": [
-            "assets/effects-12hVcg.webp.json",
-            "assets/effects--BTygw.png.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
             "assets/events",
             "events"
           ],
@@ -50,27 +20,12 @@
         },
         {
           "alias": [
-            "assets/faces",
-            "faces"
-          ],
-          "src": [
-            "assets/faces-eTSthg.png.json",
-            "assets/faces-06HMqA.webp.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
             "assets/game",
             "game"
           ],
           "src": [
-            "assets/game-rm1VrA-0.webp.json",
-            "assets/game-2wMLzw-0.png.json"
+            "assets/game-xsyd9A.webp.json",
+            "assets/game-LBCUtw.png.json"
           ],
           "data": {
             "tags": {
@@ -140,21 +95,6 @@
         },
         {
           "alias": [
-            "assets/portraits",
-            "portraits"
-          ],
-          "src": [
-            "assets/portraits-y69yTA.png.json",
-            "assets/portraits-osBDcQ.webp.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
             "assets/structures",
             "structures"
           ],
@@ -196,166 +136,6 @@
             "tags": {
               "tps": true
             }
-          }
-        },
-        {
-          "alias": [
-            "assets/towns",
-            "towns"
-          ],
-          "src": [
-            "assets/towns-qYSrKQ.png.json",
-            "assets/towns--R0zUg.webp.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
-            "assets/town",
-            "town"
-          ],
-          "src": [
-            "assets/town-Q_7Flw.png.json",
-            "assets/town-MRlU.webp.json"
-          ],
-          "data": {
-            "tags": {
-              "tps": true
-            }
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/eyes.png",
-            "eyes.png"
-          ],
-          "src": [
-            "assets/unused/eyes-TuWajQ.png",
-            "assets/unused/eyes-ayTzHQ.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/grass.png",
-            "grass.png"
-          ],
-          "src": [
-            "assets/unused/grass-FuUg2A.png",
-            "assets/unused/grass-6Qe9Hw.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/mountain.png",
-            "mountain.png"
-          ],
-          "src": [
-            "assets/unused/mountain-dOFlUQ.png",
-            "assets/unused/mountain-2C9mLQ.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/mud.png",
-            "mud.png"
-          ],
-          "src": [
-            "assets/unused/mud-vKHmfA.png",
-            "assets/unused/mud-4UtB.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/obsidian-1.png",
-            "obsidian-1.png"
-          ],
-          "src": [
-            "assets/unused/obsidian-1-Yy8eTQ.webp",
-            "assets/unused/obsidian-1-pf68SA.png"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/obsidian.png",
-            "obsidian.png"
-          ],
-          "src": [
-            "assets/unused/obsidian-jhgxzw.png",
-            "assets/unused/obsidian-1ivcKA.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/sinkhole.png",
-            "sinkhole.png"
-          ],
-          "src": [
-            "assets/unused/sinkhole-wIlfHA.png",
-            "assets/unused/sinkhole-bNPBWg.webp"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/volcanic.png",
-            "volcanic.png"
-          ],
-          "src": [
-            "assets/unused/volcanic-xj6Zlw.webp",
-            "assets/unused/volcanic-5a5f.png"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/wasteland-0.png",
-            "wasteland-0.png"
-          ],
-          "src": [
-            "assets/unused/wasteland-0-pK_Ngg.webp",
-            "assets/unused/wasteland-0-EuVmZA.png"
-          ],
-          "data": {
-            "tags": {}
-          }
-        },
-        {
-          "alias": [
-            "assets/unused/wasteland.png",
-            "wasteland.png"
-          ],
-          "src": [
-            "assets/unused/wasteland-ZfXCmw.png",
-            "assets/unused/wasteland-T8AkjA.webp"
-          ],
-          "data": {
-            "tags": {}
           }
         },
         {
